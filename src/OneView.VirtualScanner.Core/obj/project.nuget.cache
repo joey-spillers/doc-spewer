@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "INsDAyHUtP0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stadmin\\Documents\\GitHub\\doc-spewer\\src\\OneView.VirtualScanner.Core\\OneView.VirtualScanner.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stadmin\\.nuget\\packages\\bblanchon.pdfium.linux\\124.0.6322\\bblanchon.pdfium.linux.124.0.6322.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\bblanchon.pdfium.macos\\124.0.6322\\bblanchon.pdfium.macos.124.0.6322.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\bblanchon.pdfium.win32\\124.0.6322\\bblanchon.pdfium.win32.124.0.6322.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.23\\microsoft.dotnet.ilcompiler.8.0.23.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.23\\microsoft.net.illink.tasks.8.0.23.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.5\\microsoft.win32.systemevents.10.0.5.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\pdftoimage\\4.0.0\\pdftoimage.4.0.0.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.23\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.23.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\skiasharp.nativeassets.linux.nodependencies\\2.88.7\\skiasharp.nativeassets.linux.nodependencies.2.88.7.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\skiasharp.nativeassets.webassembly\\2.88.7\\skiasharp.nativeassets.webassembly.2.88.7.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\sungaila.pdfium.blazorwebassembly\\124.0.6322\\sungaila.pdfium.blazorwebassembly.124.0.6322.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\system.drawing.common\\10.0.5\\system.drawing.common.10.0.5.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\system.io.pipelines\\10.0.5\\system.io.pipelines.10.0.5.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\system.text.encodings.web\\10.0.5\\system.text.encodings.web.10.0.5.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\system.text.json\\10.0.5\\system.text.json.10.0.5.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.23\\microsoft.netcore.app.runtime.win-x64.8.0.23.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.23\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.23.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.23\\microsoft.aspnetcore.app.runtime.win-x64.8.0.23.nupkg.sha512",
+    "C:\\Users\\stadmin\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.23\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

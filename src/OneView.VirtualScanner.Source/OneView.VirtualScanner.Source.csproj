@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- NativeAOT: compile to a native DLL that TWAIN DSM can load -->
+    <PublishAot>true</PublishAot>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <OutputType>Library</OutputType>
+    <!-- The output must be a .ds file (renamed DLL) — handle via publish profile -->
+    <AssemblyName>OneView.VirtualScanner.Source</AssemblyName>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- NativeAOT ILC toolchain -->
+    <PackageReference Include="Microsoft.DotNet.ILCompiler" Version="8.*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OneView.VirtualScanner.Core\OneView.VirtualScanner.Core.csproj" />
+  </ItemGroup>
+
+</Project>

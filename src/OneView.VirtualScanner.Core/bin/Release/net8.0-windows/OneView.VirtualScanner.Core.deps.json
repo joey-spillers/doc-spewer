@@ -1,0 +1,382 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OneView.VirtualScanner.Core/1.0.0": {
+        "dependencies": {
+          "Microsoft.DotNet.ILCompiler": "8.0.23",
+          "Microsoft.NET.ILLink.Tasks": "8.0.23",
+          "PDFtoImage": "4.0.0",
+          "System.Drawing.Common": "10.0.5",
+          "System.Text.Json": "10.0.5"
+        },
+        "runtime": {
+          "OneView.VirtualScanner.Core.dll": {}
+        }
+      },
+      "bblanchon.PDFium.Linux/124.0.6322": {
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libpdfium.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-arm64/native/libpdfium.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-musl-arm64/native/libpdfium.so": {
+            "rid": "linux-musl-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-musl-x64/native/libpdfium.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-musl-x86/native/libpdfium.so": {
+            "rid": "linux-musl-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libpdfium.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x86/native/libpdfium.so": {
+            "rid": "linux-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "bblanchon.PDFium.macOS/124.0.6322": {
+        "runtimeTargets": {
+          "runtimes/osx-arm64/native/libpdfium.dylib": {
+            "rid": "osx-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/libpdfium.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "bblanchon.PDFium.Win32/124.0.6322": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/pdfium.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "124.0.6322.0"
+          },
+          "runtimes/win-x64/native/pdfium.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "124.0.6322.0"
+          },
+          "runtimes/win-x86/native/pdfium.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "124.0.6322.0"
+          }
+        }
+      },
+      "Microsoft.DotNet.ILCompiler/8.0.23": {},
+      "Microsoft.NET.ILLink.Tasks/8.0.23": {},
+      "Microsoft.Win32.SystemEvents/10.0.5": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      },
+      "PDFtoImage/4.0.0": {
+        "dependencies": {
+          "SkiaSharp": "2.88.7",
+          "SkiaSharp.NativeAssets.Linux.NoDependencies": "2.88.7",
+          "SkiaSharp.NativeAssets.WebAssembly": "2.88.7",
+          "SkiaSharp.NativeAssets.Win32": "2.88.7",
+          "SkiaSharp.NativeAssets.macOS": "2.88.7",
+          "Sungaila.PDFium.BlazorWebAssembly": "124.0.6322",
+          "bblanchon.PDFium.Linux": "124.0.6322",
+          "bblanchon.PDFium.Win32": "124.0.6322",
+          "bblanchon.PDFium.macOS": "124.0.6322"
+        },
+        "runtime": {
+          "lib/net8.0/PDFtoImage.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "SkiaSharp/2.88.7": {
+        "dependencies": {
+          "SkiaSharp.NativeAssets.Win32": "2.88.7",
+          "SkiaSharp.NativeAssets.macOS": "2.88.7"
+        },
+        "runtime": {
+          "lib/net6.0/SkiaSharp.dll": {
+            "assemblyVersion": "2.88.0.0",
+            "fileVersion": "2.88.7.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.Linux.NoDependencies/2.88.7": {
+        "dependencies": {
+          "SkiaSharp": "2.88.7"
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm/native/libSkiaSharp.so": {
+            "rid": "linux-arm",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-arm64/native/libSkiaSharp.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-musl-x64/native/libSkiaSharp.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/libSkiaSharp.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.macOS/2.88.7": {
+        "runtimeTargets": {
+          "runtimes/osx/native/libSkiaSharp.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "SkiaSharp.NativeAssets.WebAssembly/2.88.7": {},
+      "SkiaSharp.NativeAssets.Win32/2.88.7": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/libSkiaSharp.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/libSkiaSharp.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x86/native/libSkiaSharp.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Sungaila.PDFium.BlazorWebAssembly/124.0.6322": {},
+      "System.Drawing.Common/10.0.5": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "10.0.5"
+        },
+        "runtime": {
+          "lib/net8.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          },
+          "lib/net8.0/System.Private.Windows.Core.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          },
+          "lib/net8.0/System.Private.Windows.GdiPlus.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      },
+      "System.IO.Pipelines/10.0.5": {
+        "runtime": {
+          "lib/net8.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/10.0.5": {
+        "runtime": {
+          "lib/net8.0/System.Text.Encodings.Web.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll": {
+            "rid": "browser",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      },
+      "System.Text.Json/10.0.5": {
+        "dependencies": {
+          "System.IO.Pipelines": "10.0.5",
+          "System.Text.Encodings.Web": "10.0.5"
+        },
+        "runtime": {
+          "lib/net8.0/System.Text.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.526.15411"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OneView.VirtualScanner.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bblanchon.PDFium.Linux/124.0.6322": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3FQEFP0ZKXv+DV+aLVC3NDzLfXncUgCCGAmJeXrWk3v9K8r+piDzL+vjaP7xaOushG06UYrDf4iUv5QAyO1DFQ==",
+      "path": "bblanchon.pdfium.linux/124.0.6322",
+      "hashPath": "bblanchon.pdfium.linux.124.0.6322.nupkg.sha512"
+    },
+    "bblanchon.PDFium.macOS/124.0.6322": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FyBp4M9fvSbiSIEVIHSjzUOhxWnPZt6dvPJj2a6+nX587xBPu9ciR2pOmqUtmYK7E33w17oW3tSOHmidiTQA7w==",
+      "path": "bblanchon.pdfium.macos/124.0.6322",
+      "hashPath": "bblanchon.pdfium.macos.124.0.6322.nupkg.sha512"
+    },
+    "bblanchon.PDFium.Win32/124.0.6322": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LxR8fN2FLi10MwJXxlgsI3IFysXm38j7dC/Bc/9BDRTPLEV3X2bv84QoHpp7z4KBJF7DEBNJ8j1pmN0IQtzlfw==",
+      "path": "bblanchon.pdfium.win32/124.0.6322",
+      "hashPath": "bblanchon.pdfium.win32.124.0.6322.nupkg.sha512"
+    },
+    "Microsoft.DotNet.ILCompiler/8.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sZ+2paRWqc7J2GWWCV5iOF0A9XDrBzR+xBsN1jqMwKGud7ElpHgljmikA9ORejQRZ8Iu3mmzGRWQ7M76pHH2XQ==",
+      "path": "microsoft.dotnet.ilcompiler/8.0.23",
+      "hashPath": "microsoft.dotnet.ilcompiler.8.0.23.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/8.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GqHiB1HbbODWPbY/lc5xLQH8siEEhNA0ptpJCC6X6adtAYNEzu5ZlqV3YHA3Gh7fuEwgA8XqVwMtH2KNtuQM1Q==",
+      "path": "microsoft.net.illink.tasks/8.0.23",
+      "hashPath": "microsoft.net.illink.tasks.8.0.23.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a7rC0Qb5JGiA4f4ooqQjsx17LgYkb9feOcMNGyBXGqYmqC4ZoLbrV98zn7Kr5Z39BIU10Bti80Jwm/QAw+45VA==",
+      "path": "microsoft.win32.systemevents/10.0.5",
+      "hashPath": "microsoft.win32.systemevents.10.0.5.nupkg.sha512"
+    },
+    "PDFtoImage/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-S/KSija6XGfkqr4Ae5Bf0H3faPN9n8a4smthD5cNg/Q0HfzypuVVXi7ViVLyU/seHrOXl84AZXfElgGHYuwjtw==",
+      "path": "pdftoimage/4.0.0",
+      "hashPath": "pdftoimage.4.0.0.nupkg.sha512"
+    },
+    "SkiaSharp/2.88.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LJHAMrbWO00J7jXWLWehyjqFo29T4VzABimfJb4nICqpEe3c/KvQGWL4ItON8ymzhxYOeFgyxeRzuNzO4GHSug==",
+      "path": "skiasharp/2.88.7",
+      "hashPath": "skiasharp.2.88.7.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Linux.NoDependencies/2.88.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KkMftfAz1lGPnuhyecuLJzeyvMjXtHp9cYVQc/oeLhF8KYrxtUxRy5LOX5oROhyLHy/CyqEl9MoAhqmSH7cV7g==",
+      "path": "skiasharp.nativeassets.linux.nodependencies/2.88.7",
+      "hashPath": "skiasharp.nativeassets.linux.nodependencies.2.88.7.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.macOS/2.88.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3jNzco4VjcYPFNxR9aNWcgweFXbTSdM1VpNRzCS4X0i1A1OuNqcaulrAvmntNpujeWxHo9e6WGh6FN8Jf5+XhA==",
+      "path": "skiasharp.nativeassets.macos/2.88.7",
+      "hashPath": "skiasharp.nativeassets.macos.2.88.7.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.WebAssembly/2.88.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-elmOOQTO0QXmnnHx7GliF7VNJqZkWgPqqPsXapEN0EEZJ9fGblYWmD6cqxTwaRTMCUFeLpn8+gTzY8j000MxZQ==",
+      "path": "skiasharp.nativeassets.webassembly/2.88.7",
+      "hashPath": "skiasharp.nativeassets.webassembly.2.88.7.nupkg.sha512"
+    },
+    "SkiaSharp.NativeAssets.Win32/2.88.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BCXmWdQ0oVck9vRwC8U3ocSaTHEx28VB+6qw9OxGIMQ86iO5bp4Flqk3IXH0l9Pbr7vWAUOpI212iaL9mTaUZQ==",
+      "path": "skiasharp.nativeassets.win32/2.88.7",
+      "hashPath": "skiasharp.nativeassets.win32.2.88.7.nupkg.sha512"
+    },
+    "Sungaila.PDFium.BlazorWebAssembly/124.0.6322": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6H3uhCXnNf1OD8+YCVK0GPDgcpAfYt0x+WIQ1n6mBBn5N722lXm7pES4ph2IPFIqJcyjksQcQk/5DHncTb1ikQ==",
+      "path": "sungaila.pdfium.blazorwebassembly/124.0.6322",
+      "hashPath": "sungaila.pdfium.blazorwebassembly.124.0.6322.nupkg.sha512"
+    },
+    "System.Drawing.Common/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FYgPPbii/9Prh7RuY1gaxSyik7Ysw594K0uCHggDxHDgl7mfk8c4UlwluKjQoMquVGLce7Jld4DjjsnuYK3m7g==",
+      "path": "system.drawing.common/10.0.5",
+      "hashPath": "system.drawing.common.10.0.5.nupkg.sha512"
+    },
+    "System.IO.Pipelines/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8/ZHN/j2y1t+7McdCf1wXku2/c7wtrGLz3WQabIoPuLAn3bHDWT6YOJYreJq8sCMPSo6c8iVYXUdLlFGX5PEqw==",
+      "path": "system.io.pipelines/10.0.5",
+      "hashPath": "system.io.pipelines.10.0.5.nupkg.sha512"
+    },
+    "System.Text.Encodings.Web/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-opvD/nKTzGKA7GVntZ9L823kN6IxgHQfuxY+VI9gv8VE1Y7CSKoi/QS1EYDQiA63MqtZsD7X6zkISd2ZQJohTQ==",
+      "path": "system.text.encodings.web/10.0.5",
+      "hashPath": "system.text.encodings.web.10.0.5.nupkg.sha512"
+    },
+    "System.Text.Json/10.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vW2zhkWziyfhoSXNf42mTWyilw+vfwBGOsODDsHSFtOIY6LCgfRVUyaAilLEL4Kc1fzhaxcep5pS0VWYPSDW0w==",
+      "path": "system.text.json/10.0.5",
+      "hashPath": "system.text.json.10.0.5.nupkg.sha512"
+    }
+  }
+}

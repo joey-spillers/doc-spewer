@@ -1,0 +1,16 @@
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\bin\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.deps.json
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\bin\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.dll
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\bin\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.pdb
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\bin\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Core.dll
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\bin\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Core.pdb
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.csproj.AssemblyReference.cache
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.AssemblyInfoInputs.cache
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.AssemblyInfo.cs
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.csproj.CoreCompileInputs.cache
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.sourcelink.json
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\OneView..BF50EE88.Up2Date
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.dll
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\refint\OneView.VirtualScanner.Source.dll
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\OneView.VirtualScanner.Source.pdb
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Source\obj\Debug\net8.0-windows\win-x64\ref\OneView.VirtualScanner.Source.dll

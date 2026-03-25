@@ -1,0 +1,13 @@
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\bin\Release\net8.0-windows\OneView.VirtualScanner.Core.deps.json
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\bin\Release\net8.0-windows\OneView.VirtualScanner.Core.dll
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\bin\Release\net8.0-windows\OneView.VirtualScanner.Core.pdb
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\OneView.VirtualScanner.Core.csproj.AssemblyReference.cache
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\OneView.VirtualScanner.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\OneView.VirtualScanner.Core.AssemblyInfoInputs.cache
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\OneView.VirtualScanner.Core.AssemblyInfo.cs
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\OneView.VirtualScanner.Core.csproj.CoreCompileInputs.cache
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\OneView.VirtualScanner.Core.sourcelink.json
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\OneView.VirtualScanner.Core.dll
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\refint\OneView.VirtualScanner.Core.dll
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\OneView.VirtualScanner.Core.pdb
+C:\Users\stadmin\Documents\GitHub\doc-spewer\src\OneView.VirtualScanner.Core\obj\Release\net8.0-windows\ref\OneView.VirtualScanner.Core.dll
